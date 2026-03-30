@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /.git/
+
+Sitemap: https://dezeleinshams-create.github.io/sitemap.xml
